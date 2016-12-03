@@ -1,0 +1,29 @@
+{
+  "name": "muki-sms",
+  "version": "0.0.1",
+  "description": "Muki.js demo using the Nexmo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprusr/muki-sms.git"
+  },
+  "keywords": [
+    "muki.js",
+    "muki",
+    "nexmo"
+  ],
+  "author": "Scott Street <scott@spru.sr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprusr/muki-sms/issues"
+  },
+  "homepage": "https://github.com/sprusr/muki-sms#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "muki": "^0.1.1",
+    "nexmo": "^1.1.0"
+  }
+}
